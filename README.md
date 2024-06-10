@@ -7,4 +7,8 @@ dsfdjfghgfdsk
 sdftryaiugduahjs
 just some updates, add on branch
 
+<<<<<<< HEAD
 I hope this is much of a problem
+=======
+This is bound to call trouble
+>>>>>>> very-bad
